@@ -1,4 +1,4 @@
-# Predict-Disease-Outcome-Based-on-Genetic-and-Clinical-Data
+![image](https://github.com/user-attachments/assets/5c3d7b01-fbdf-45a6-8486-2c46161d34be)# Predict-Disease-Outcome-Based-on-Genetic-and-Clinical-Data
 # Predict Disease Outcome Based on Genetic and Clinical Data
 
 ## 📝 Problem Statement
@@ -50,12 +50,6 @@ Notebook used: **Google Colab**
   - `concave points_mean`
   - `radius_worst`
   - `concavity_mean`
-
----
-
-## 📊 Screenshot
-
-*Refer to the included image in this repository for the output screenshot showing the classification report and feature importance graph.*
 
 ---
 
