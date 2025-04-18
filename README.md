@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c3d7b01-fbdf-45a6-8486-2c46161d34be)# Predict-Disease-Outcome-Based-on-Genetic-and-Clinical-Data
+
 # Predict Disease Outcome Based on Genetic and Clinical Data
 
 ## 📝 Problem Statement
